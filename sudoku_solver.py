@@ -112,4 +112,4 @@ while(run):
             run=False
             #pygame.quit()
     draw(board, GAP, win)
-    print("added interface")
+    
